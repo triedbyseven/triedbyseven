@@ -20,6 +20,10 @@ I am a fullstack software engineer from Los Angeles, CA.
 <img align="left" alt="aws" src="https://img.shields.io/badge/Amazon%20AWS-%23232F3E?logo=amazon-aws&logoColor=white&style=for-the-badge" />
 <img align="left" alt="medium" src="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white" />
 <img align="left" alt="android" src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white&style=for-the-badge" />
-<img align="left" alt="spring" src="https://img.shields.io/badge/spring%20-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white" />
+<br>
+<br>
+
+## AWS Certifications
+[<img align="left" width="134" alt="aws-cloud-practioner" src="https://images.credly.com/size/680x680/images/68468004-5a85-4f3b-bc58-590773979486/AWS-CloudPractitioner-2020.png" />](https://www.credly.com/badges/383dea11-f7cf-42b1-9ced-77b63937c42d/public_url)
 <br>
 <br>
