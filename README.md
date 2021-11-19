@@ -5,7 +5,6 @@ I am a fullstack software engineer from Los Angeles, CA.
 - 📱 Building and securing cloud archeticture and design.
 - 🧑🏽‍🏫 Teaching & mentoring aspiring junior developers to become leading software engineers.
 - 👨🏽‍🔬 Research and developing new technologies to support software projects.
-- 🧙🏽 CTO of JOYMD.
 
 <br>
 
