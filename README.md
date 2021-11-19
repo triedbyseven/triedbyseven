@@ -1,4 +1,4 @@
-### Welcome 👋
+### Welcome 👋🏽
 I am a fullstack software engineer from Los Angeles, CA.
 - 🔭 Working on multiple private frontend and backend project using React, NodeJS , NextJS and more.
 - 🌱 Continously learning advanced design patterns.
