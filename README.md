@@ -53,6 +53,6 @@ I am a fullstack software engineer from Los Angeles, CA.
 <br>
 
 ## AWS Certifications
-[<img align="left" width="134" alt="aws-cloud-practioner" src="https://images.credly.com/size/680x680/images/68468004-5a85-4f3b-bc58-590773979486/AWS-CloudPractitioner-2020.png" />](https://www.credly.com/badges/383dea11-f7cf-42b1-9ced-77b63937c42d/public_url)
+[<img align="left" width="134" alt="aws-cloud-practioner" src="https://images.credly.com/size/680x680/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" />](https://www.credly.com/badges/383dea11-f7cf-42b1-9ced-77b63937c42d/public_url)
 <br>
 <br>
